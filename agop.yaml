@@ -4,6 +4,6 @@ name: 데이터 수집 프레임워크
 kind: framework
 business: platform
 lifecycle: running
-repo: Eun-Tack/data-collection-framework
+repo: plynkdata/data-collection-framework
 role: 5단계 리서치 수집 — Harvest의 프레임워크
 aliases: [data-collection-framework]
